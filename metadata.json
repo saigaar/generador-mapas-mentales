@@ -1,0 +1,5 @@
+{
+  "name": "AI Mind Map Generator",
+  "description": "An application that uses AI to generate interactive mind maps from various sources like PDFs, text files, or URLs. It leverages the Gemini API for content analysis and markmap.js for visualization.",
+  "requestFramePermissions": []
+}
