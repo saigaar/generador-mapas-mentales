@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { BrainCircuitIcon } from './icons';
 
@@ -8,8 +7,8 @@ export const Header: React.FC = () => {
       <div className="container mx-auto flex items-center gap-4">
         <BrainCircuitIcon className="h-10 w-10 text-cyan-400" />
         <div>
-            <h1 className="text-2xl font-bold text-white">AI Mind Map Generator</h1>
-            <p className="text-sm text-gray-400">Transform documents and URLs into interactive mind maps with Gemini.</p>
+            <h1 className="text-2xl font-bold text-white">Generador de Mapas Mentales con IA</h1>
+            <p className="text-sm text-gray-400">Transforma documentos y URLs en mapas mentales interactivos con Gemini.</p>
         </div>
       </div>
     </header>
